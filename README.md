@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saqib</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=m-saqibtahir&label=Profile%20views&color=0e75b6&style=flat" alt="m-saqibtahir" /> </p>
-<div style="display: flex; justify-content: center; padding: 5;">
+<div style="display: flex; justify-content: center; padding: 10;">
 <!--   <img align="left" padding="5px" alt="coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 <img align="left" padding="5px" alt="coding" width="400" height="300" src="https://media2.giphy.com/media/VTtANKl0beDFQRLDTh/200w.webp?cid=ecf05e471lnksov9b5e8a2hzdcr1f0cecqynkscq6spvq203&ep=v1_gifs_search&rid=200w.webp&ct=g">
   <img align="right" padding="5px" alt="coding" width="400" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzl1dzVnajhvb3dzbHNnNDZyZ3hoM2FzNXVzdTYwczR4b2l4cW4wdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.webp">
