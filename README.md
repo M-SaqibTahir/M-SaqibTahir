@@ -3,9 +3,9 @@
 <h3 align="center">A passionate MERN Stack Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=m-saqibtahir&label=Profile%20views&color=0e75b6&style=flat" alt="m-saqibtahir" /> </p>
 <div style="display: flex; justify-content: center; padding: 5;">
-  <img align="left" padding="5px" alt="coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!--   <img align="left" padding="5px" alt="coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 <img align="center" padding="5px" alt="coding" width="300" height="175" src="https://media2.giphy.com/media/VTtANKl0beDFQRLDTh/200w.webp?cid=ecf05e471lnksov9b5e8a2hzdcr1f0cecqynkscq6spvq203&ep=v1_gifs_search&rid=200w.webp&ct=g">
-  <img align="right" padding="5px" alt="coding" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWE4YWw3NDYzYmV2a3kwbHNmejJtOWF4dmNxYXptOHZzcW03eHR0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJVw6tIfb2dIwTHFb0/giphy.webp">
+<!--   <img align="right" padding="5px" alt="coding" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWE4YWw3NDYzYmV2a3kwbHNmejJtOWF4dmNxYXptOHZzcW03eHR0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJVw6tIfb2dIwTHFb0/giphy.webp"> -->
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-saqibtahir" alt="m-saqibtahir" /></a> </p>
